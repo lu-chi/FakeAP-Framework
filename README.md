@@ -10,6 +10,6 @@ Basic functions will be:
 - wireshark/tcpdump/ngrep/etc. packet file creation
 - co-op with Aircrack-ng, Reaver, SSLstrip, URLsnarf & all what will jump into my mind
 
-Framework will be based on bash and python/ ruby. Some conecpts will be added after initial commit - that would be msf  and kaermatasploit data exchange.
+Framework will be based on bash and python/ ruby. Some conecpts will be added after initial commit - that would be msf  and karmetasploit data exchange.
 
 More things to come soon...
